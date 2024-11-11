@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CalebJKim&repo=github-readme-stats)](https://github.com/CalebJKim/github-readme-stats)
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebJKim)](https://github.com/CalebJKim/github-readme-stats)
